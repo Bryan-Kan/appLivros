@@ -67,10 +67,10 @@ export default function Home({navigation}){
 }
 
 
-const estilo = StyleSheet.create(
+export const estilo = StyleSheet.create(
 {
     cardEstilo: {
         margin:5,
-    }
+    },
 }
 );
